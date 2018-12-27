@@ -21,6 +21,6 @@ IntelliJ IDEA
 
 ![图片加载失败](https://github.com/50Death/CipheredSocketChat/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E7%BA%A2%E5%8C%85.jpg)
 
-···
+```
 git pull
-···
+```
