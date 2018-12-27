@@ -17,6 +17,7 @@ IntelliJ IDEA
 ###注意事项
 受加密算法限制，加密明文越长越容易被统计出现频率破解，不适合用于商业等强加密场合
 
+
 ### 不求捐赠但求扫码
 
 ![图片加载失败](https://github.com/50Death/CipheredSocketChat/blob/master/%E6%94%AF%E4%BB%98%E5%AE%9D%E7%BA%A2%E5%8C%85.jpg)
