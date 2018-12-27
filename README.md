@@ -9,14 +9,13 @@ java version "1.8.0_191"
 
 Java(TM) SE Runtime Environment (build 1.8.0_191-b12)
 
-Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode) 
+Java HotSpot(TM) 64-Bit Server VM (build 25.191-b12, mixed mode)
 
-###IDE
+### IDE
 IntelliJ IDEA
 
-###注意事项
+### 注意事项
 受加密算法限制，加密明文越长越容易被统计出现频率破解，不适合用于商业等强加密场合
-
 
 ### 不求捐赠但求扫码
 
